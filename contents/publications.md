@@ -1,2 +1,5 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu . LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>In Revision.</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- W. Li, <strong>K. Shi</strong>, Y. Chai. AIChatbotsasProfessionalServiceAgents:DevelopingaProfessional Identity. <strong>In Review.</strong>
 
+- Y. Chai, <strong>K. Shi* </strong>, L. Zhou, J. Xie, C. Liu, Y. Jiang, Y. Liu. Detecting Fake News on Social Media: A Novel Reliability Aware Machine Crowd Hybrid Intelligence-Based Method. <strong>In Review.</strong>
+
+- <strong>K. Shi</strong>, Y. Chai*, Y. Qian, Y. Jiang, Y. Liu. Pre-trained Language Model-Based Web Application Firewalls Enhancement Method. <strong>In Review.</strong>
