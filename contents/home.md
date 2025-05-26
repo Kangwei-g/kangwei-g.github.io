@@ -1,6 +1,6 @@
 
 
-[![Kangwei-g](https://img.shields.io/badge/Kangwei-g-github-blue?logo=github)](https://github.com/Kangwei-g)
+[![Kangwei-g](https://img.shields.io/badge/kangwei-github-blue?logo=github)](https://github.com/Kangwei-g)
 
 He is currently pursuing a Master's Degree in Management Information Systems, at School of Management, Hefei University of Technology, China.
 
