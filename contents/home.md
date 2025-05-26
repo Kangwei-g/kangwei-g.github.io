@@ -1,16 +1,15 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Kangwei-g](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/Kangwei-g)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently pursuing a Master's Degree in Management Information Systems, at School of Management, Hefei University of Technology, China.
 
 #### Email
-sli[at]cumt.edu.cn
+shikw[at]mail.hfut.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Management Information Systems, Hefei University of Technology, 2024-present\
+B.E., Information Management and Information Systems, Hefei University of Technology, 2020-2024.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+LLM, AI, Cybersecurity, et al.
