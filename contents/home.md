@@ -9,11 +9,11 @@ shikw[at]mail.hfut.edu.cn
 
 #### Education
 
-## Hefei University of Technology, 2024-Present
+##### Hefei University of Technology, 2024-Present
 
 M.E., Management Information Systems
 
-## Hefei University of Technology, 2020-2024
+##### Hefei University of Technology, 2020-2024
 
 B.E., Information Management and Information Systems
 
