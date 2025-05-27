@@ -4,8 +4,7 @@
 
 He is currently pursuing a Master's Degree in Management Information Systems, at School of Management, Hefei University of Technology, China.
 
-#### Email
-shikw[at]mail.hfut.edu.cn
+Email: shikw[at]mail.hfut.edu.cn
 
 #### Education
 
