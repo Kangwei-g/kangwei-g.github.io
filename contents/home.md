@@ -1,4 +1,4 @@
-I am currently pursuing a Master's Degree in Management Information Systems at the School of Management at Hefei University of Technology, advised by [Yidong Chai](http://faculty.hfut.edu.cn/chaiyidong/zh_CN/index.htm). My research focuses on creating a more empathetic large language model (LLM) capable of effectively communicating with the general public, beyond just educated groups.
+I am currently pursuing a Master's Degree in Management Information Systems at the [School of Management](https://som.hfut.edu.cn) at [Hefei University of Technology](https://www.hfut.edu.cn), advised by [Yidong Chai](http://faculty.hfut.edu.cn/chaiyidong/zh_CN/index.htm). My research focuses on creating a more empathetic large language model (LLM) capable of effectively communicating with the general public, beyond just educated groups.
 
 #### Education
 
