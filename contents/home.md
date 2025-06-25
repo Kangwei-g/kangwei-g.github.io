@@ -1,4 +1,4 @@
-He is currently pursuing a Master's Degree in Management Information Systems, at School of Management, Hefei University of Technology, China.
+I am currently pursuing a Master's Degree in Management Information Systems at the School of Management at Hefei University of Technology, advised by [Yidong Chai](http://faculty.hfut.edu.cn/chaiyidong/zh_CN/index.htm). My research focuses on creating a more empathetic large language model (LLM) capable of effectively communicating with the general public, beyond just educated groups.
 
 #### Education
 
@@ -7,7 +7,7 @@ He is currently pursuing a Master's Degree in Management Information Systems, at
 **Hefei University of Technology**, 2020-2024 | **B.E.**, Information Management and Information Systems
 
 #### Research Interests
-LLM, RAG, Role-playing, Cybersecurity, et al.
+AI, MIS, LLM, RAG, et al.
 
 #### Email 
 shikw[at]mail.hfut.edu.cn
