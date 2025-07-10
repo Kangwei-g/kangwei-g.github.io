@@ -1,4 +1,4 @@
-I am a Ph.D. student at the [School of Management](https://som.hfut.edu.cn) at [Hefei University of Technology](https://www.hfut.edu.cn), advised by [Yidong Chai](http://faculty.hfut.edu.cn/chaiyidong/zh_CN/index.htm). 
+I am a first-year Ph.D. student at the [School of Management](https://som.hfut.edu.cn) at [Hefei University of Technology](https://www.hfut.edu.cn), advised by [Yidong Chai](http://faculty.hfut.edu.cn/chaiyidong/zh_CN/index.htm). 
 
 #### Education
 
