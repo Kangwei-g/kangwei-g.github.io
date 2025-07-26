@@ -4,7 +4,7 @@ I am a first-year Ph.D. student at the [School of Management](https://som.hfut.e
 
 **Hefei University of Technology**, 2024-Present | **Ph.D.**, Management Science & Engineering
 
-**Hefei University of Technology**, 2020-2024 | **B.E.**, Information Management and Information Systems
+**Hefei University of Technology**, 2020-2024 | **B.E.**, Information Management & Information Systems
 
 #### Email 
 shikw[at]mail.hfut.edu.cn
