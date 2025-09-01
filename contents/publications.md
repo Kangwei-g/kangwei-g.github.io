@@ -4,4 +4,4 @@
 
 - W. Li, <strong>K. Shi*</strong>, Y. Chai. *AI Chatbots as Professional Service Agents: Developing a Professional Identity.* <strong>EMNLP 2025 Main</strong>.
 
-- <strong>K. Shi</strong>, Y. Chai*, Y. Qian, Y. Jiang, Y. Liu. *Pre-trained Language Model-Based Web Application Firewalls Enhancement Method.* <strong>Computer Engineering</strong>, 2025. (in Chinese) [[Paper]](https://doi.org/10.19678/j.issn.1000-3428.0252100)
+- <strong>K. Shi</strong>, Y. Chai*, Y. Qian, Y. Jiang, Y. Liu. *Pre-trained Language Model-Based Web Application Firewalls Enhancement Method.* <strong>Computer Engineering</strong>, 2025. [[Paper]](https://doi.org/10.19678/j.issn.1000-3428.0252100)
