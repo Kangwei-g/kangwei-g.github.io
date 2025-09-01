@@ -1,5 +1,3 @@
-- First-prize Scholarship of HFUT, 2024.
-
 - National Encouragement Scholarship, HFUT, 2023
 
 - Merit Student, HFUT, 2023
