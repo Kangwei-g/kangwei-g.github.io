@@ -1,4 +1,4 @@
-I am a Second-year Ph.D. student at the [School of Management](https://som.hfut.edu.cn) at [Hefei University of Technology](https://www.hfut.edu.cn), advised by [Prof. Yidong Chai](http://faculty.hfut.edu.cn/chaiyidong/zh_CN/index.htm).
+I am a Second-year Ph.D. student at the [School of Management](https://som.hfut.edu.cn) at [Hefei University of Technology](https://www.hfut.edu.cn), advised by [Prof. Yidong Chai](https://www.cb.cityu.edu.hk/people-and-research/people/people-details?eid=yidonchai2), who is now an Associate Professor at [City University of Hong Kong](https://www.cityu.edu.hk/en).
 
 #### Education
 
