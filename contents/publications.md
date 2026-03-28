@@ -1,6 +1,6 @@
 (\*) means corresponding author
   
-- <strong>K. Shi </strong>, Y. Chai*, L. Zhou, J. Xie, C. Liu, Y. Jiang, Y. Liu. *Detecting Fake News on Social Media: A Novel Uncertainty-Aware Machine–Crowd Hybrid-Intelligence-Based Method* <strong>Information & Management</strong>, 2026. [[Paper]](https://arxiv.org/abs/2412.06833)[[Code]](https://github.com/Kangwei-g/RAHI) 
+- <strong>K. Shi </strong>, Y. Chai*, L. Zhou, J. Xie, C. Liu, Y. Jiang, Y. Liu. *Detecting Fake News on Social Media: A Novel Uncertainty-Aware Machine–Crowd Hybrid-Intelligence-Based Method.* <strong>Information & Management</strong>, 2026. [[Paper]](https://arxiv.org/abs/2412.06833)[[Code]](https://github.com/Kangwei-g/RAHI) 
 
 - Z. Bian, Z. Luo, W. Zhang, F. Kong, Y. Yang, Y. Chen, C. Liao, Z. Chen, W. Wang, W. Zhong, T. Li, N. Wang, R. Zhu, G. Li, <strong>K. Shi</strong>, R. Shi, Z. Zhang, Z. Zhang*. *Fight for the People's Health: The Application of AI Multi-Agent Systems in Medical Consortia.* <strong>Health Care Science</strong>, 2025. [[Paper]](https://github.com/Kangwei-g/kangwei-g.github.io/blob/main/contents/HCS270037.pdf)
 
